@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Page 1</title>
+    <link href='http://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel='stylesheet prefetch' href='http://ilt-insightdlp-static.s3.amazonaws.com/css/default.css'>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/shea_style.css">
+  </head>
+
+  <body>
+
+
+<div class="container row-xGrid-yMiddle">
+
+
+<p>
+Your friend's mother’s spreads a rumor that your mother’s apothecary work is witchcraft, and that she poisoned your father. Do you...
+</p>
+
+<h2>
+Option 1:
+</h2>
+
+<p>
+Confront for friend’s mother for spreading rumors.
+</p>
+
+<h2>
+Option 2:
+</h2>
+
+<p>
+Ignore it.
+</p>
+
+
+  <div class="row-xGrid iso-standard">
+  <div>
+  <a href="index.html">
+    <button class="ctrl-standard typ-subhed fx-bubbleUp">Option 1</button>
+  </a>
+  </div>
+   <div>
+  <a href="index.html">
+    <button class="ctrl-standard typ-subhed fx-bubbleUp">Option 2</button>
+  </a>
+  </div>
+</div>
+
+
+
+
+        <script src="js/index.js"></script>
+  </body>
+</html>
